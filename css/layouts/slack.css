@@ -1,0 +1,14 @@
+/* TODO: slack layout */
+
+.slack {
+  display: grid;
+  grid-template-columns: 0.07fr 0.2fr 1fr;
+}
+
+.left-icons {
+  text-align: center;
+}
+
+.chat {
+  margin: 0px 0px 0px 16px;
+}

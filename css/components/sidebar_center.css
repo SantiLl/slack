@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+}
+
+.channels {
+  background-color: #4B3949;
+  width: 200px;
+  height: 100vh;
+}
+
+.channels h1 {
+  color: white;
+  text-align: left;
+  margin-top: 10px;
+  font-size: 24px;
+  padding: 0 30px;
+}
+
+#username {
+  padding: 0 30px;
+}
+
+.channels h2 {
+  font-size: 16px;
+  color: white;
+}
+
+.titles-flex {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px 0px 0px 0px;
+}
+
+.channels-options {
+  margin: 0 auto;
+  padding: 0px 30px;
+}
+
+/* specific classes for icons/text*/
+
+.dm-options {
+  padding: 0 30px;
+}
+
+.icon-white {
+  color: white;
+}
+
+.text-gray {
+  color: rgba(240,240,240,0.6);
+  font-size: 16px;
+  margin: 0px;
+}
+
+.circle-green {
+  color: #1FE5BD;
+  font-size: 13px;
+}
+
+.icon-gray {
+  color: rgba(240,240,240,0.6);
+  font-size: 12px;
+}
